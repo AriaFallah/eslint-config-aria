@@ -11,6 +11,8 @@ module.exports = {
     "no-param-reassign": 0,
     "no-return-assign": 0,
     "no-use-before-define": [2, "nofunc"],
-    "no-confusing-arrow": 0
+    "no-confusing-arrow": 0,
+    "func-names": 0,
+    "prefer-arrow-callback": 0
   }
 }
