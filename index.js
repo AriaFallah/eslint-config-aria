@@ -113,7 +113,6 @@ module.exports = {
     "object-shorthand": 2,
     "object-shorthand": [2, "always"],
     "padded-blocks": [2, "never"],
-    "prefer-arrow-callback": 2,
     "prefer-const": 2,
     "prefer-const": 2,
     "prefer-reflect": 0,
