@@ -124,7 +124,7 @@ module.exports = {
     "prefer-template": 1,
     "prefer-template": 2,
     "quote-props": [2, "as-needed"],
-    "quotes": [2, "double", { "allowTemplateLiterals": true }],
+    "quotes": [2, "single", { "allowTemplateLiterals": true }],
     "radix": [2, "always"],
     "require-yield": 2,
     "semi": [2, "never"],
