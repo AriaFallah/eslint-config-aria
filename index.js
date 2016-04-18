@@ -73,7 +73,6 @@ module.exports = {
     "no-iterator": 2,
     "no-lonely-if": 2,
     "no-loop-func": 2,
-    "no-magic-numbers": 2,
     "no-mixed-spaces-and-tabs": 2,
     "no-multi-spaces": [2, { exceptions: { "VariableDeclarator": true, "Property": false } }],
     "no-native-reassign": 2,
