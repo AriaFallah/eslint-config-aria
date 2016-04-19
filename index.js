@@ -25,7 +25,7 @@ module.exports = {
     "comma-style": [2, "last"],
     "consistent-return": 2,
     "constructor-super": 2,
-    "curly": [2, "multi"],
+    "curly": [2, "multi-line"],
     "default-case": 2,
     "dot-location": [2, "property"],
     "dot-notation": 2,

@@ -9,6 +9,9 @@
   "dependencies": {
     "babel-eslint": "^6.0.2"
   },
+  "peerDependencies": {
+    "eslint": "^2.8.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AriaFallah/eslint-config-aria.git"
