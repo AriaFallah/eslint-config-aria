@@ -23,6 +23,7 @@ module.exports = {
     "block-spacing": 2,
     "brace-style": [2, "1tbs"],
     "camelcase": [2, { properties: "never" }],
+    "comma-spacing": [2, { "before": false, "after": true }],
     "comma-style": [2, "last"],
     "consistent-return": 2,
     "constructor-super": 2,
@@ -33,7 +34,6 @@ module.exports = {
     "eol-last": 2,
     "eqeqeq": 2,
     "func-style": [2, "declaration"],
-    "generator-star-spacing": [2, { "before": false, "after": true }],
     "guard-for-in": 2,
     "indent": [2, 2],
     "jsx-quotes": [2, "prefer-double"],
@@ -129,7 +129,6 @@ module.exports = {
     "spaced-comment": [2, "always"],
     "template-curly-spacing": 2,
     "use-isnan": 2,
-    "valid-typeof": 2,
-    "yield-star-spacing": [2, "after"]
+    "valid-typeof": 2
   }
 }
