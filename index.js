@@ -71,6 +71,7 @@ module.exports = {
     "no-invalid-regexp": 2,
     "no-irregular-whitespace": 2,
     "no-iterator": 2,
+    "no-labels": 0,
     "no-lonely-if": 2,
     "no-loop-func": 2,
     "no-mixed-spaces-and-tabs": 2,
