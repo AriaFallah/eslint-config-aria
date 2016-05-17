@@ -35,7 +35,7 @@ module.exports = {
     "eol-last": 2,
     "eqeqeq": 2,
     "flowtype/require-parameter-type": 2,
-    "flowtype/require-return-type": [2, "always", { "annotateUndefined": "always" }],
+    "flowtype/require-return-type": [2, "always", { "annotateUndefined": "never" }],
     "flowtype/space-after-type-colon": [2, "always"],
     "func-style": [2, "declaration"],
     "guard-for-in": 2,
