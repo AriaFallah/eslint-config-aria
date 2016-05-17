@@ -12,6 +12,7 @@ module.exports = {
       "jsx": true
     }
   },
+  "plugins": ["flowtype"],
   "rules": {
     "accessor-pairs": 2,
     "array-bracket-spacing": [2, "never"],
@@ -33,6 +34,9 @@ module.exports = {
     "dot-notation": 2,
     "eol-last": 2,
     "eqeqeq": 2,
+    "flowtype/require-parameter-type": 2,
+    "flowtype/require-return-type": [2, "always", { "annotateUndefined": "always" }],
+    "flowtype/space-after-type-colon": [2, "always"],
     "func-style": [2, "declaration"],
     "guard-for-in": 2,
     "indent": [2, 2],
@@ -131,5 +135,10 @@ module.exports = {
     "template-curly-spacing": 2,
     "use-isnan": 2,
     "valid-typeof": 2
+  },
+  "settings": {
+    "flowtype": {
+      "onlyFilesWithFlowAnnotation": true
+    }
   }
 }
