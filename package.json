@@ -8,8 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-eslint": "^6.0.4",
-    "eslint": "^2.10.2",
-    "eslint-plugin-flowtype": "^2.2.7"
+    "eslint": "^2.10.2"
   },
   "repository": {
     "type": "git",
