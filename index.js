@@ -131,10 +131,5 @@ module.exports = {
     "template-curly-spacing": 2,
     "use-isnan": 2,
     "valid-typeof": 2
-  },
-  "settings": {
-    "flowtype": {
-      "onlyFilesWithFlowAnnotation": true
-    }
   }
 }
