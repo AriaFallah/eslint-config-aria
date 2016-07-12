@@ -108,7 +108,6 @@ module.exports = {
     "no-useless-constructor": 2,
     "no-useless-escape": 2,
     "no-var": 2,
-    "no-var": 2,
     "object-curly-spacing": [2, "always"],
     "object-shorthand": 2,
     "object-shorthand": [2, "always"],
