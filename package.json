@@ -1,14 +1,14 @@
 {
   "name": "eslint-config-aria",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "babel-eslint": "^6.0.4",
-    "eslint": "^2.10.2"
+    "babel-eslint": "^6.1.2",
+    "eslint": "^2.13.1"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,6 @@
     "prepublish": "publish-please guard"
   },
   "devDependencies": {
-    "publish-please": "^2.0.0"
+    "publish-please": "^2.1.4"
   }
 }
