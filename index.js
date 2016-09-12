@@ -35,7 +35,7 @@ module.exports = {
     "eqeqeq": 2,
     "func-style": [2, "declaration"],
     "guard-for-in": 2,
-    "indent": [2, 2],
+    "indent": [2, 2, { "SwitchCase": 1 }],
     "jsx-quotes": [2, "prefer-double"],
     "keyword-spacing": 2,
     "max-len": [2, 120],
