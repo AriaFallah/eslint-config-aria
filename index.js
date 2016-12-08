@@ -61,7 +61,6 @@ module.exports = {
     "no-extra-bind": 2,
     "no-extra-boolean-cast": 2,
     "no-extra-label": 2,
-    "no-extra-parens": 2,
     "no-extra-semi": 2,
     "no-fallthrough": 2,
     "no-func-assign": 2,
