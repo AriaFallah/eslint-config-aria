@@ -31,7 +31,7 @@ module.exports = {
     "dot-location": [2, "property"],
     "dot-notation": 2,
     "eol-last": 2,
-    "eqeqeq": 2,
+    "eqeqeq": [2, "smart"],
     "guard-for-in": 2,
     "indent": [2, 2, { "SwitchCase": 1 }],
     "jsx-quotes": [2, "prefer-double"],
